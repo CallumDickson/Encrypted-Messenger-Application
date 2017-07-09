@@ -1,0 +1,10 @@
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingInterfaces\bin\Debug\ChattingInterfaces.dll
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingInterfaces\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingInterfaces\obj\Debug\ChattingInterfaces.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingInterfaces\bin\Debug\ChattingInterfaces.dll
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingInterfaces\bin\Debug\ChattingInterfaces.pdb
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingInterfaces\obj\Debug\ChattingInterfaces.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb

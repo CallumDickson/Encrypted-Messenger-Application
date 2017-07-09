@@ -1,0 +1,16 @@
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingServer\bin\Debug\ChattingServer.exe.config
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingServer\bin\Debug\ChattingServer.exe
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingServer\bin\Debug\ChattingServer.pdb
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingServer\bin\Debug\ChattingInterfaces.dll
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingServer\obj\Debug\ChattingServer.csprojResolveAssemblyReference.cache
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingServer\obj\Debug\ChattingServer.exe
+C:\Users\Callu\Source\Repos\Messenger\Messenger\ChattingServer\obj\Debug\ChattingServer.pdb
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingServer\bin\Debug\ChattingServer.exe.config
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingServer\obj\Debug\ChattingServer.exe
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingServer\obj\Debug\ChattingServer.pdb
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingServer\bin\Debug\ChattingServer.exe
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingServer\bin\Debug\ChattingServer.pdb
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingServer\bin\Debug\ChattingInterfaces.dll
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+D:\Documents\Documents\Abertay University\Year 3\Software Engineering\MessengerApp\Messenger\ChattingServer\obj\Debug\ChattingServer.csprojResolveAssemblyReference.cache
