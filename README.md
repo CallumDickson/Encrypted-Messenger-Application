@@ -5,10 +5,10 @@ Quick 2 week C# project for Uni. A messaging application was created using Clien
 
 ## Setup:
 
-- Either run 'Messenger.sln' from Visual Studio
+- Either run `Messenger.sln` from Visual Studio
 
-or
+###or
 
-- run 'ChattingServer.exe' from 'ChattingServer/bin/Debug'
+- run `ChattingServer.exe` from `ChattingServer/bin/Debug`
 
-- 'Messenger.exe' from 'Messenger/Bin/Debug'
+- `Messenger.exe` from `Messenger/Bin/Debug`
