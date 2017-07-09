@@ -6,12 +6,12 @@ Quick 2 week C# project for Uni. A messaging application was created using Clien
 ## Setup:
 There are two optinons to set up.
 
-To test:
+### To test:
 
 - Open `ChattingServer.exe` from `ChattingServer/bin/Debug`
 
 - and then Open `Messenger.exe` from `Messenger/Bin/Debug`
 
-To edit:
+### To edit:
 
 - Run `Messenger.sln` from Visual Studio
